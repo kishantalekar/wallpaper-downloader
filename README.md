@@ -49,7 +49,7 @@ The project consists of the following main folders:
 4. Start the Expo server:
 
    ```sh
-   npm start
+   npx expo start
    ```
 
 5. Open the app on your device using the Expo Go app.
