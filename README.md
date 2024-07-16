@@ -1,4 +1,4 @@
-# Wallpaper Downloader
+# Wallpaper Downloader made with expo
 
 ## Overview
 
